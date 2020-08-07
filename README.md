@@ -4,7 +4,7 @@
 
 ## Write your own versions of (/src/utils/customArrFunctions.js):
 
-[my directory](./src/utils/customArrFunktion.js)
+[my directory](src/utils/customArrFunktion.js)
 - Array.prototype.map 
 - Array.prototype.filter
 - Array.prototype.reduce
